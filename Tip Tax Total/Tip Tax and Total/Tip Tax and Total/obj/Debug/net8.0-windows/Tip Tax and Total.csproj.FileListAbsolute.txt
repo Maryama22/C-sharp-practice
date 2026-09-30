@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip_Tax_and_Total.Form1.resources
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.AssemblyInfo.cs
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\bin\Debug\net8.0-windows\Tip Tax and Total.exe
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\bin\Debug\net8.0-windows\Tip Tax and Total.deps.json
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\bin\Debug\net8.0-windows\Tip Tax and Total.runtimeconfig.json
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\bin\Debug\net8.0-windows\Tip Tax and Total.dll
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\bin\Debug\net8.0-windows\Tip Tax and Total.pdb
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.dll
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\refint\Tip Tax and Total.dll
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.pdb
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\Tip Tax and Total.genruntimeconfig.cache
+C:\Users\HP\Documents\Tip Tax Total\Tip Tax and Total\Tip Tax and Total\obj\Debug\net8.0-windows\ref\Tip Tax and Total.dll

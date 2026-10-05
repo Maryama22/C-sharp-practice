@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\bin\Debug\net8.0-windows\Range Checker.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\bin\Debug\net8.0-windows\Range Checker.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\bin\Debug\net8.0-windows\Range Checker.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\bin\Debug\net8.0-windows\Range Checker.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\bin\Debug\net8.0-windows\Range Checker.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range_Checker.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\refint\Range Checker.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\Range Checker.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Ranger Checker\Range Checker\Range Checker\obj\Debug\net8.0-windows\ref\Range Checker.dll

@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\bin\Debug\net8.0-windows\Test Average.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\bin\Debug\net8.0-windows\Test Average.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\bin\Debug\net8.0-windows\Test Average.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\bin\Debug\net8.0-windows\Test Average.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\bin\Debug\net8.0-windows\Test Average.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test_Average.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\refint\Test Average.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\Test Average.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Test Score Averege\Test Average\Test Average\obj\Debug\net8.0-windows\ref\Test Average.dll

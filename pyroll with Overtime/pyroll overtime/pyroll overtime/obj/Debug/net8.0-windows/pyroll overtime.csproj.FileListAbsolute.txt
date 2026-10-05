@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\bin\Debug\net8.0-windows\pyroll overtime.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\bin\Debug\net8.0-windows\pyroll overtime.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\bin\Debug\net8.0-windows\pyroll overtime.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\bin\Debug\net8.0-windows\pyroll overtime.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\bin\Debug\net8.0-windows\pyroll overtime.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll_overtime.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\refint\pyroll overtime.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\pyroll overtime.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\pyroll with Overtime\pyroll overtime\pyroll overtime\obj\Debug\net8.0-windows\ref\pyroll overtime.dll

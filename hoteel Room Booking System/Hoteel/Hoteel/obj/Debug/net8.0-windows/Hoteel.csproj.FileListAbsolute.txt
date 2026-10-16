@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\bin\Debug\net8.0-windows\Hoteel.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\bin\Debug\net8.0-windows\Hoteel.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\bin\Debug\net8.0-windows\Hoteel.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\bin\Debug\net8.0-windows\Hoteel.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\bin\Debug\net8.0-windows\Hoteel.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\refint\Hoteel.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\Hoteel.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\hoteel Room\Hoteel\Hoteel\obj\Debug\net8.0-windows\ref\Hoteel.dll

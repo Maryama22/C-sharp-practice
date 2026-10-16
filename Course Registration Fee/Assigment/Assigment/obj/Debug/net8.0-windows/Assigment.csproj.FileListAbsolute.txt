@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\bin\Debug\net8.0-windows\Assigment.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\bin\Debug\net8.0-windows\Assigment.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\bin\Debug\net8.0-windows\Assigment.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\bin\Debug\net8.0-windows\Assigment.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\bin\Debug\net8.0-windows\Assigment.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\refint\Assigment.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\Assigment.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Assigment1\Assigment\Assigment\obj\Debug\net8.0-windows\ref\Assigment.dll

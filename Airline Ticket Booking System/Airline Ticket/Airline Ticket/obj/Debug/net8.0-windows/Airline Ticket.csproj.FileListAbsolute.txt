@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\bin\Debug\net8.0-windows\Airline Ticket.exe
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\bin\Debug\net8.0-windows\Airline Ticket.deps.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\bin\Debug\net8.0-windows\Airline Ticket.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\bin\Debug\net8.0-windows\Airline Ticket.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\bin\Debug\net8.0-windows\Airline Ticket.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline_Ticket.Form1.resources
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.sourcelink.json
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\refint\Airline Ticket.dll
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.pdb
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\Airline Ticket.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\C-sharp-practice\Airplane system\Airline Ticket\Airline Ticket\obj\Debug\net8.0-windows\ref\Airline Ticket.dll

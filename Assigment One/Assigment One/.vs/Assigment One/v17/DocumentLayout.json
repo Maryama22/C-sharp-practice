@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D50B84-EBA1-464B-90F1-4FB4ED920AC1}|Assigment One\\Assigment One.csproj|C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\assigment one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{79D50B84-EBA1-464B-90F1-4FB4ED920AC1}|Assigment One\\Assigment One.csproj|solutionrelative:assigment one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D50B84-EBA1-464B-90F1-4FB4ED920AC1}|Assigment One\\Assigment One.csproj|c:\\users\\hp\\documents\\assigment one\\assigment one\\assigment one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D50B84-EBA1-464B-90F1-4FB4ED920AC1}|Assigment One\\Assigment One.csproj|solutionrelative:assigment one\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\Assigment One\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment One\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\Assigment One\\Form1.cs",
+              "RelativeToolTip": "Assigment One\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAtJTsvzgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T16:04:45.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\Assigment One\\Form1.cs",
+              "RelativeDocumentMoniker": "Assigment One\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Assigment One\\Assigment One\\Assigment One\\Form1.cs [Design]",
+              "RelativeToolTip": "Assigment One\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T15:41:41.736Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

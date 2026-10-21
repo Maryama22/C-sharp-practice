@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\bin\Debug\net8.0-windows\Home Assigment.exe
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\bin\Debug\net8.0-windows\Home Assigment.deps.json
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\bin\Debug\net8.0-windows\Home Assigment.runtimeconfig.json
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\bin\Debug\net8.0-windows\Home Assigment.dll
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\bin\Debug\net8.0-windows\Home Assigment.pdb
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home_Assigment.Form1.resources
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.AssemblyInfo.cs
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.dll
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\refint\Home Assigment.dll
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.pdb
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\Home Assigment.genruntimeconfig.cache
+C:\Users\HP\Documents\Home Assigment\Home Assigment\Home Assigment\obj\Debug\net8.0-windows\ref\Home Assigment.dll

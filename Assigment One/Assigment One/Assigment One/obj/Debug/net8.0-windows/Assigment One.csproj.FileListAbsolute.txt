@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\bin\Debug\net8.0-windows\Assigment One.exe
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\bin\Debug\net8.0-windows\Assigment One.deps.json
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\bin\Debug\net8.0-windows\Assigment One.runtimeconfig.json
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\bin\Debug\net8.0-windows\Assigment One.dll
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\bin\Debug\net8.0-windows\Assigment One.pdb
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment_One.Form1.resources
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.AssemblyInfo.cs
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.dll
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\refint\Assigment One.dll
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.pdb
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\Assigment One.genruntimeconfig.cache
+C:\Users\HP\Documents\Assigment One\Assigment One\Assigment One\obj\Debug\net8.0-windows\ref\Assigment One.dll

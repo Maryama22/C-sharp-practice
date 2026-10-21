@@ -1,0 +1,17 @@
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\bin\Debug\net8.0-windows\BMI program.exe
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\bin\Debug\net8.0-windows\BMI program.deps.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\bin\Debug\net8.0-windows\BMI program.runtimeconfig.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\bin\Debug\net8.0-windows\BMI program.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\bin\Debug\net8.0-windows\BMI program.pdb
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI_program.Form1.resources
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.AssemblyInfo.cs
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.sourcelink.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\refint\BMI program.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.pdb
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\BMI program.genruntimeconfig.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\BMI prpgram\BMI program\BMI program\obj\Debug\net8.0-windows\ref\BMI program.dll

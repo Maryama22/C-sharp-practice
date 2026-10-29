@@ -14,12 +14,6 @@
 
 ---
 
-## 2. Shuruudaha
-
-- Visual Studio 2022
-- Project: **Windows Forms App** (`net8.0-windows`)
-- `using System.IO;` (loogu isticmaalo `File`, `StreamReader`, `StreamWriter`)
-- Event-ka **Load** ee Form-ka waa inuu ku xiran yahay `Form1_Load_1`
 
 ---
 

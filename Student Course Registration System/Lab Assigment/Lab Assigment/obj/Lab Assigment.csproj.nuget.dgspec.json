@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\Lab Assigment\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj": {}
+    "C:\\Users\\HP\\Documents\\Data Satructure in java\\C-sharp-practice\\Student Course Registration System\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\Lab Assigment\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj": {
+    "C:\\Users\\HP\\Documents\\Data Satructure in java\\C-sharp-practice\\Student Course Registration System\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\Lab Assigment\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\Data Satructure in java\\C-sharp-practice\\Student Course Registration System\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj",
         "projectName": "Lab Assigment",
-        "projectPath": "C:\\Users\\HP\\Documents\\Lab Assigment\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\Data Satructure in java\\C-sharp-practice\\Student Course Registration System\\Lab Assigment\\Lab Assigment\\Lab Assigment.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\Lab Assigment\\Lab Assigment\\Lab Assigment\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\Data Satructure in java\\C-sharp-practice\\Student Course Registration System\\Lab Assigment\\Lab Assigment\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",

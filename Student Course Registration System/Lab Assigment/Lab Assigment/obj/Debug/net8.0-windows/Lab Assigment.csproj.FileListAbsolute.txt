@@ -14,3 +14,20 @@ C:\Users\HP\Documents\Lab Assigment\Lab Assigment\Lab Assigment\bin\Debug\net8.0
 C:\Users\HP\Documents\Lab Assigment\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.pdb
 C:\Users\HP\Documents\Lab Assigment\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.genruntimeconfig.cache
 C:\Users\HP\Documents\Lab Assigment\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\ref\Lab Assigment.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.exe
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.deps.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.runtimeconfig.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\bin\Debug\net8.0-windows\Lab Assigment.pdb
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab_Assigment.Form1.resources
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.AssemblyInfo.cs
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.sourcelink.json
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\refint\Lab Assigment.dll
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.pdb
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\Lab Assigment.genruntimeconfig.cache
+C:\Users\HP\Documents\Data Satructure in java\C-sharp-practice\Student Course Registration System\Lab Assigment\Lab Assigment\obj\Debug\net8.0-windows\ref\Lab Assigment.dll

@@ -1,0 +1,16 @@
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\bin\Debug\net8.0-windows\file dialog practice.exe
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\bin\Debug\net8.0-windows\file dialog practice.deps.json
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\bin\Debug\net8.0-windows\file dialog practice.runtimeconfig.json
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\bin\Debug\net8.0-windows\file dialog practice.dll
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\bin\Debug\net8.0-windows\file dialog practice.pdb
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file_dialog_practice.Form1.resources
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.csproj.GenerateResource.cache
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.AssemblyInfo.cs
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.dll
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\refint\file dialog practice.dll
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.pdb
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\file dialog practice.genruntimeconfig.cache
+C:\Users\HP\Documents\C-sharp\test\File Dialog practice\file dialog practice\file dialog practice\obj\Debug\net8.0-windows\ref\file dialog practice.dll
